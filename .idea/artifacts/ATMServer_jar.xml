@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ATMServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATMServer_jar</output-path>
+    <root id="archive" name="ATMServer.jar">
+      <element id="module-output" name="BAMS" />
+    </root>
+  </artifact>
+</component>
